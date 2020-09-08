@@ -1,6 +1,6 @@
 {
   "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
+  "url": "https://shobiz.com",
   "domain": "update-me.com",
   "description": "Description of the website. Update me.",
   "genre": "Insert a schema.org genre",
@@ -9,17 +9,17 @@
     "subtitle": "Subtitle. Update me.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://shobiz.com"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://shobiz.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Sholanki",
+    "twitterHandle": "@Sholanki"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Sholanki"
   }
 }
