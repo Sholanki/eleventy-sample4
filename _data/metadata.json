@@ -1,5 +1,5 @@
 {
-  "title": "Title of the website. Update me.",
+  "title": "Home",
   "url": "https://shobiz.com",
   "domain": "update-me.com",
   "description": "Description of the website. Update me.",
@@ -17,7 +17,7 @@
   },
   "author": {
     "name": "Sholanki",
-    "twitterHandle": "@Sholanki"
+    "twitterHandle": "@BiswasSholanki"
   },
   "publisher": {
     "name": "Sholanki"
