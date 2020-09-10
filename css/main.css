@@ -8,6 +8,13 @@
   color: red;
 }
 
+#p-8 bg-gray-200{
+	padding: 2rem;
+	background-color: rgba(237,242,247,var(--bg-opacity));
+	box-sizing: border-box;
+    border: 0 solid #e2e8f0;
+}
+
 share-widget {
   position: fixed;
   right: 20px;
