@@ -14,7 +14,7 @@
     border: 0 solid #e2e8f0;
 }
 	
-#p-8 bg-gray-200{
+.bg-gray-200 p-8{
 	padding: 2rem;
 	background-color: rgba(237,242,247,var(--bg-opacity));
 }
