@@ -1,12 +1,14 @@
 ---
-layout: layouts/base.njk
-title: About
+layout: layouts/home.njk
+title: Posts
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About
+  key: Posts
   order: 3
 ---
 
-I am a person that writes stuff.
-
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+<div id="posts">
+  <h2>Posts</h2>
+  {% set postslist = collections.posts %}
+  {% include "postslist.njk" %}
+</div>
