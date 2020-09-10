@@ -9,6 +9,6 @@ eleventyNavigation:
 
 <div id="posts">
   <h2>Posts</h2>
-  {% set postslist = collections.posts %}
+  {% set postslist = firstpost.md %}
   {% include "postslist.njk" %}
 </div>
