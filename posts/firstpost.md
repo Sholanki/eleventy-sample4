@@ -28,3 +28,6 @@ function myCommand() {
 // Test with a line break above this line.
 console.log('Test');
 ```
+#Comments
+
+<button href="https://peaceful-montalcini-60e923.netlify.app/posts/firstpost/" on-click="tweet" id="addComment">Add a comment</button>
